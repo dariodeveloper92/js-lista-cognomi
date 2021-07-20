@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    font-size: 30px;
+}
+
+#cognomi_disordinati {
+    color: blue;
+}
+
+#cognomi_ordinati {
+    color: red;
+}   
+
+#posizione_umana {
+    color: green;
+}
+
+h1 {
+    color: black;
+}
